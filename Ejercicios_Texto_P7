@@ -1,0 +1,8 @@
+1. Calculadora_02   
+   Implementa una calculadora básica que permite realizar operaciones matemáticas: suma, resta, multiplicación, división, potenciación y radicación. Utiliza un menú interactivo donde el usuario elige la operación a realizar e ingresa los valores. También maneja excepciones, como evitar la división entre cero y la raíz cuadrada de números negativos.
+
+2. Ejercicio_01   
+   El programa compara dos números enteros (a y b) ingresados por el usuario e imprime si a es mayor que b. Sin embargo, hay un error en el código: la comparación if (a > b) se realiza antes de que los valores sean leídos, lo que puede generar un comportamiento inesperado.
+
+3. Ejercicio_02   
+   Determina si un número ingresado por el usuario es par o impar. Si es par, imprime un mensaje indicándolo; si es impar, también lo indica y finaliza la ejecución.
